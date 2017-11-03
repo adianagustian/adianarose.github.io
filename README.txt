@@ -3,11 +3,11 @@ TITLE:
 Solid - 100% Fully Responsive Free HTML5 Bootstrap Template
 
 AUTHOR:
-DESIGNED & DEVELOPED by GetTemplates.co
+DESIGNED & DEVELOPED by https://github.com/adianagustian/adianarose.github.io
 
-Website: http://gettemplates.co/
-Twitter: http://twitter.com/gettemplatesco
-Facebook: http://facebook.com/gettemplatesco
+Website: http://https://github.com/adianagustian/adianarose.github.io/
+Twitter: http://twitter.com/
+Facebook: http://facebook.com/
 
 
 CREDITS:
